@@ -8,4 +8,4 @@ script:
   - yarn test --watchAll=false
   - yarn build
 on:
-  branch:master
+  branch: master
